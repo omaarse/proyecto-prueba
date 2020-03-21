@@ -13,7 +13,7 @@ namespace Pruebas
 
           
             Console.WriteLine(Singleton.Instance.msg);
-            Singleton.Instance.msg = "prueba git hub!";
+            Singleton.Instance.msg = "prueba git hub 2!";
             Console.WriteLine(Singleton.Instance.msg);
             
             Console.ReadKey();
