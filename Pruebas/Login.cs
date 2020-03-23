@@ -9,6 +9,9 @@ namespace Pruebas
     class Login
     {
         public int ID { get; set; }
+<<<<<<< HEAD
         public string Username { get; set; }
+=======
+>>>>>>> login
     }
 }
